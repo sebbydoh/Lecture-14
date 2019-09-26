@@ -1,0 +1,17 @@
+{
+
+    "version": "1.0.0",
+    
+    "name": "lecture14demo",
+    
+    "devDependencies": {
+    
+    "gulp": "latest",
+    
+    "gulp-sass": "latest",
+    
+    "node-sass": "latest"
+    
+    }
+    
+    }
